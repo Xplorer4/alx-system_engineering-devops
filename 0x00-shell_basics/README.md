@@ -1,1 +1,1 @@
-a readme file
+printing absolute path
